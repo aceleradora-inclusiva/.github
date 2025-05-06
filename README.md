@@ -1,6 +1,6 @@
 # Aceleradora Inclusiva
 
-# Repositório Pessoal - John Doe
+### Criando Repositório Pessoal na Organizição
 
 Nome do repositório: t2025-nome-sobrenome
 Exemplo: t2025-john-doe
