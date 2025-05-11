@@ -6,7 +6,7 @@ Nome do repositório: t2025-nome-sobrenome
 
 Exemplo: t2025-john-doe
 
-Este repositório é dedicado às atividades individuais do curso *Web Development - Inclusiva 2025*.
+**Este repositório é dedicado às atividades individuais do curso Desenvolvimento Web - Aceleradora Inclusiva TURMA 2025.**
 
 ## 📁 Estrutura
 
